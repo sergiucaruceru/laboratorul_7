@@ -6,7 +6,7 @@
 docker-compose up --build
 ```
 
-Aplicația rulează la:
+Aplicația rulează la adresa :
 
 http://localhost:3000
 
@@ -21,7 +21,7 @@ docker push USERNAME/laborator7-app
 
 ## GitHub Secrets
 
-Adaugă:
+Secretele de autentificare în Docker Hub.:
 
 - DOCKER_USERNAME
 - DOCKER_PASSWORD
