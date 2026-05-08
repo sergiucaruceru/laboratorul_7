@@ -15,8 +15,8 @@ http://localhost:3000
 ```bash
 docker login
 docker build -t laborator7-app .
-docker tag laborator7-app USERNAME/laborator7-app
-docker push USERNAME/laborator7-app
+docker tag laborator7-app LENOVO/laborator7-app
+docker push LENOVO/laborator7-app
 ```
 
 ## GitHub Secrets
